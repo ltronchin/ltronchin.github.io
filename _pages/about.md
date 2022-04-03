@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi 👋
 
-My name is Lorenzo and I am a PhD student in the Computer Systems & Bioinformatics Laboratory at Campus Bio-Medico of Rome, passionate about <b>Generative Deep Models</b> and <b>Interpretability</b> in medical field.
+My name is Lorenzo and I am a PhD student in the Computer Systems & Bioinformatics Laboratory at Campus Bio-Medico of Rome, passionate about <b>Generative Deep Models</b> and <b>Interpretability</b>.
 
 <b> My aim is to change the way the clinicians search and discover medical knowledge from unstructured medical data. </b>
 
