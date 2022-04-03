@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: An up-to-date list is available on [Google Scholar](https://scholar.google.it/citations?user=3WpZse0AAAAJ&hl=en&oi=ao)
+description: An up-to-date list is available on Google Scholar
 years: [2020, 2021]
 nav: true
 ---
